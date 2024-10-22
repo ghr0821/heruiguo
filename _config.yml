@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Herui Guo"
-description              : "Herui Guo's personal website. "
+title                    : "郭和睿（Herui Guo）"
+description              : "PhD student at Zhejiang University, with main research areas including user experience and product innovation design, human-computer interaction, AI assisted design, etc."
 repository               : "ghr0821/heruiguo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Herui Guo"
   avatar           : "images/0006baidi.jpg"
-  bio              : "PhD student at Zhejiang University"
+  bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
